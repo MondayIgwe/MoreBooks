@@ -1,1 +1,0 @@
-"C:\Users\migwe\AppData\Local\Android\Sdk\tools\emulator.exe" Nexus_5X_API _31

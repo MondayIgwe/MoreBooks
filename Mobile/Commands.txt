@@ -1,1 +1,3 @@
-"C:\Users\migwe\AppData\Local\Android\Sdk\tools\emulator.exe" Nexus_5X_API _31
+"C:\Users\migwe\AppData\Local\Android\Sdk\tools
+emulator -avd nameOfApp -netspeed full
+https://play.google.com/store/apps/details?id=com.quikr&hl=en&pli=1
